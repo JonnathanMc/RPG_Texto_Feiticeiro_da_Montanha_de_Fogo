@@ -69,13 +69,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Fases.cpp" />
+    <ClCompile Include="GerenciadorVariaveis.cpp" />
+    <ClCompile Include="LeitorDeArquivos.cpp" />
+    <ClCompile Include="MenuNavegavel.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Tela.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ConsoleHelper.h" />
-    <ClInclude Include="Fases.h" />
-    <ClInclude Include="targetver.h" />
+    <ClInclude Include="GerenciadorVariaveis.h" />
+    <ClInclude Include="LeitorDeArquivos.h" />
+    <ClInclude Include="MenuNavegavel.h" />
+    <ClInclude Include="Tela.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

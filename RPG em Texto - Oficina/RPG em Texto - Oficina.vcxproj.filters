@@ -18,7 +18,16 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Fases.cpp">
+    <ClCompile Include="LeitorDeArquivos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tela.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuNavegavel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GerenciadorVariaveis.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -26,10 +35,16 @@
     <ClInclude Include="ConsoleHelper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Fases.h">
+    <ClInclude Include="LeitorDeArquivos.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="targetver.h">
+    <ClInclude Include="Tela.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GerenciadorVariaveis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuNavegavel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,16 +1,22 @@
-﻿Build started 13/06/2015 13:50:02.
-     1>Project "C:\Users\Jonnathan\Documents\visual studio 2013\Projects\RPG em Texto - Oficina\RPG em Texto - Oficina\RPG em Texto - Oficina.vcxproj" on node 2 (Build target(s)).
+﻿Build started 13/06/2015 19:11:11.
+     1>Project "C:\Users\Jonnathan\Documents\Visual Studio 2013\Projects\RPG em Texto - Oficina\RPG em Texto - Oficina\RPG em Texto - Oficina.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib Source.cpp
-         Source.cpp
-     1>Source.cpp(34): warning C4101: 'opcoes' : unreferenced local variable
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib MenuNavegavel.cpp Tela.cpp
+         MenuNavegavel.cpp
+     1>MenuNavegavel.cpp(15): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         Tela.cpp
+     1>Tela.cpp(43): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Generating Code...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jonnathan\Documents\visual studio 2013\Projects\RPG em Texto - Oficina\Debug\RPG em Texto - Oficina.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jonnathan\Documents\visual studio 2013\Projects\RPG em Texto - Oficina\Debug\RPG em Texto - Oficina.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Fases.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jonnathan\Documents\Visual Studio 2013\Projects\RPG em Texto - Oficina\Debug\RPG em Texto - Oficina.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jonnathan\Documents\Visual Studio 2013\Projects\RPG em Texto - Oficina\Debug\RPG em Texto - Oficina.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\GerenciadorVariaveis.obj
+         Debug\LeitorDeArquivos.obj
+         Debug\MenuNavegavel.obj
          Debug\Source.obj
+         Debug\Tela.obj
          "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
-         RPG em Texto - Oficina.vcxproj -> C:\Users\Jonnathan\Documents\visual studio 2013\Projects\RPG em Texto - Oficina\Debug\RPG em Texto - Oficina.exe
-     1>Done Building Project "C:\Users\Jonnathan\Documents\visual studio 2013\Projects\RPG em Texto - Oficina\RPG em Texto - Oficina\RPG em Texto - Oficina.vcxproj" (Build target(s)).
+         RPG em Texto - Oficina.vcxproj -> C:\Users\Jonnathan\Documents\Visual Studio 2013\Projects\RPG em Texto - Oficina\Debug\RPG em Texto - Oficina.exe
+     1>Done Building Project "C:\Users\Jonnathan\Documents\Visual Studio 2013\Projects\RPG em Texto - Oficina\RPG em Texto - Oficina\RPG em Texto - Oficina.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.60
+Time Elapsed 00:00:01.61

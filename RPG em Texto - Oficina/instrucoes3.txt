@@ -1,0 +1,88 @@
+﻿#82#
+A porta se abre para revelar um aposento pequeno e de cheiro forte. No centro do aposento
+há uma mesa de madeira instável onde está uma vela acesa. Embaixo da mesa há uma pequena
+caixa de madeira. Dormindo em um colchão de palha, no canto mais distante do aposento, está
+um ser baixo e robusto, com um rosto feio e cheio de verrugas: o mesmo tipo de ser que você
+encontrou dormindo no posto de sentinela. Deve ser o guarda do turno da noite. Você pode
+retornar para o corredor e seguir em frente para o norte (vá para 208) ou insinuar-se pelo
+aposento para tentar pegar a caixa sem acordar o ser. Se você quiser tentar roubar a caixa,
+Teste a sua Sorte. Se você tiver sorte, ele não acordará - vá para 147. Se não tiver, volte
+para 33.
+@
+retornar para o corredor e seguir em frente para o norte
+208
+@
+testar a sorte
+666
+!!!
+
+#84#
+A porta abre para um pequeno aposento, confortavelmente mobiliado com uma mesa, várias cadeiras
+e uma grande estante que ocupa uma das paredes. Sentado à mesa está um velho com uma longa barba
+grisalha e, acocorado no ombro do velho, há um pequeno animal alado. Este ser não tem mais do que
+seis centímetros de altura. Possui dois braços e duas pernas; sua pele é de uma cor cinzenta e 
+empoeirada. Tem pequenos dentes afiados e suas asas estão fechadas atrás das costas. O velho não 
+diz nada quando você entra pela porta, mas ele sinaliza para que você se sente à mesa. Ele está 
+brincando com dois objetos brancos que segura em suas mãos. Você:
+@
+Senta como ele está indicando? 
+204
+@
+Sai do aposento e retorna à encruzilhada? 
+208
+@
+Desembainha sua espada e avança? 
+377
+!!!
+
+#85#
+Você está novamente em uma encruzilhada.
+@
+Para seguir para o norte.  
+106
+@
+Para seguir para o sul. 
+373
+@
+Para seguir para o leste. 
+318
+@
+Para seguir para o oeste. 
+59
+!!!
+
+#92#
+Você chega de volta à encruzilhada na passagem. Você olha à esquerda e vê a entrada da 
+caverna à distância, na penumbra, mas segue em frente caminhando. 
+@
+Voltar.
+71
+!!!
+
+#278#
+A passagem logo termina em uma porta de madeira trancada. Você cola o ouvido na porta. Mas
+não ouve nada. Você vai tentar derrubá-la? Em caso afirmativo, volte para 156. Se você
+preferir dar meia volta e retornar à encruzilhada, volte para 92.
+@
+Tentar derrubá-la
+156
+@
+dar meia volta e retornar à encruzilhada
+92
+!!!
+
+#301#
+À sua esquerda, na parte oeste da passagem, há uma porta de madeira rústica. Você pára 
+junto a ela e ouve um som áspero que poderia ser de algum tipo de criatura roncando. Você
+quer abrir a porta? Em caso afirmativo, volte para 82. Se quiser seguir adiante para o norte,
+volte para 208.
+@
+Abrir a porta
+82
+@
+Seguir para o norte
+208
+!!!
+ 
+
+
